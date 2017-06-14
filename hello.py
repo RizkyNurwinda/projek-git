@@ -13,5 +13,3 @@ print "Hello World"
 
 
 
-
-:wq_
